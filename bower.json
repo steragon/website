@@ -1,0 +1,10 @@
+{
+  "name": "amirhosseinab-website",
+  "version": "0.1.0",
+  "homepage": "https://github.com/amirhosseinab/website",
+  "authors": [
+    "amirhosseinab"
+  ],
+  "description": "amirhosseinab.com",
+  "license": "Apache_2.0"
+}
