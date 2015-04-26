@@ -6,5 +6,8 @@
     "amirhosseinab"
   ],
   "description": "amirhosseinab.com",
-  "license": "Apache_2.0"
+  "license": "Apache_2.0",
+  "devDependencies": {
+    "foundation": "zurb/bower-foundation#~5.5.1"
+  }
 }
