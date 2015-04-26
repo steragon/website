@@ -1,0 +1,16 @@
+{
+  "name": "amirhosseinab-website",
+  "version": "0.1.0",
+  "description": "amirhosseinab.com",
+  "main": "index.js",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/amirhosseinab/website.git"
+  },
+  "author": "amirhosseinab",
+  "license": "Apache_2.0",
+  "bugs": {
+    "url": "https://github.com/amirhosseinab/website/issues"
+  },
+  "homepage": "https://github.com/amirhosseinab/website"
+}
